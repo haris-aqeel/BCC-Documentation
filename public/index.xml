@@ -6,12 +6,13 @@
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 22 Jun 2022 21:20:47 &#43;0500</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Solidity Pragma</title>
+    <title>Pragma</title>
     <link>http://example.org/posts/solidity-pragma/</link>
     <pubDate>Wed, 22 Jun 2022 21:20:47 &#43;0500</pubDate>
-    <author>xxxx</author>
+    <author>Haris Aqeel</author>
     <guid>http://example.org/posts/solidity-pragma/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[The keyword &lsquo;pragma&rsquo; is used in solidity programming language to enable certain compiler features and checks. The keyword pragma is used at the top-level (generally the first line) of the file before writting any Solidity code. The pragma keyword is followed by the version of Solidity we need to use.
+Since, Solidity is a rapidly changing and growing language, so there are changes and updates in it every few months. The code written now on Solidity might not be compatible or may introduce security issues with upcoming or future Solidity versions.]]></description>
 </item>
 </channel>
 </rss>
